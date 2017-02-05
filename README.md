@@ -30,11 +30,7 @@ We will teach Python using the Jupyter (IPython) notebook, a programming environ
 1. Download the Python 3.5 installer for Linux.
 1. Install Python 3.5 using all of the defaults for installation. (Installation requires using the shell. If you aren't comfortable doing the installation yourself stop here and request help at the workshop.)
 1. Open a terminal window.
-1. Type
-
-> bash Anaconda-
-
-and then press tab. The name of the file you just downloaded should appear.
+1. Type ```bash Anaconda``` and then press tab. The name of the file you just downloaded should appear.
 1. Press enter. You will follow the text-only prompts. When there is a colon at the bottom of the screen press the down arrow to move down through the text. Type yes and press enter to approve the license. Press enter to approve the default location for the files. Type yes and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
 
 ### SunPy
@@ -43,10 +39,8 @@ Given that you have installed Python using Anaconda, we can use the Anaconda env
 1. To install SunPy launch a system command prompt or the 'Anaconda Command Prompt' (under Windows).
 1. Configure conda for sunpy downloads:
 
-> conda config --add channels conda-forge --add channels astropy
+```conda config --add channels conda-forge --add channels astropy```
 
-1. Then to install SunPy
+Then to install SunPy
 
-> conda install sunpy astroquery
-
-1. Once you are done installing the software listed above, please go to this page, which has instructions on how to test that everything was installed correctly.
+```conda install sunpy astroquery```
