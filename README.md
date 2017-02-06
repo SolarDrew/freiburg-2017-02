@@ -9,6 +9,34 @@ The introductory Python lessons and the setup instructions below are adapted fro
 
 To participate in the workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser.
 
+### Git
+
+Git is a version control system that lets you track who made changes to what when and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser (current versions of Chrome, Firefox or Safari, or Internet Explorer version 9 or above).
+
+#### Windows
+
+Download the Git for Windows installer. Run the installer and follow the steps below:
+1. Click on "Next".
+1. Click on "Next".
+1. Click on "Next".
+1. Click on "Next".
+1. Click on "Next".
+1. Select "Use Git from the Windows Command Prompt" and click on "Next". If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
+1. Click on "Next". Keep "Checkout Windows-style, commit Unix-style line endings" selected.
+1. Select "Use Windows' default console window" and click on "Next".
+1. Click on "Next".
+1. Click on "Finish".
+
+This will provide you with both Git and Bash in the Git Bash program.
+
+#### Mac OS X
+
+For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from [this list](http://sourceforge.net/projects/git-osx-installer/files/). After installing Git, there will not be anything in your /Applications folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" [available here](http://sourceforge.net/projects/git-osx-installer/files/).
+
+#### Linux
+
+If Git is not already available on your machine you can try to install it via your distro's package manager. For Debian/Ubuntu run sudo apt-get install git and for Fedora run sudo yum install git.
+
 ### Python
 
 Python is a popular language for scientific computing, and great for general-purpose programming as well. Installing all of its scientific packages individually can be a bit difficult, so we recommend Anaconda, an all-in-one installer.
