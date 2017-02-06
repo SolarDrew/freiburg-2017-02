@@ -16,6 +16,7 @@ Git is a version control system that lets you track who made changes to what whe
 #### Windows
 
 Download the Git for Windows installer. Run the installer and follow the steps below:
+
 1. Click on "Next".
 1. Click on "Next".
 1. Click on "Next".
