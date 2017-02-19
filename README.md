@@ -1,9 +1,25 @@
 # Freiburg OpenAstronomy Workshop 21st-22nd February 2017
 
 This repository contains the material taught at the OpenAstronomy workshop at Freiburg in February 2017.
-The first day is an introduction to Python for scientists already familiar with programming concepts, and the second day covers Astropy and Sunpy.
+The first day is an introduction to Python for scientists already familiar with programming concepts, and the second day covers Astropy and SunPy.
 
-The introductory Python lessons and the setup instructions below are adapted from the excellent Software Carpentry material.
+The introductory Python lessons and the [setup instructions below](#installation-and-setup) are adapted from the excellent [Software Carpentry](https://software-carpentry.org/lessons/
+) material.
+
+If you have any questions about this workshop or its contents, or if you would like to arrange a similar workshop, feel free to contact [Stuart Mumford](mailto:stuart.mumford@aperiosoftware.com) or [Drew Leonard](mailto:andrew.leonard@aperiosoftware.com).
+
+## Schedule
+
+| | **Day 1** | **Day 2** |
+| :---: | :---: | :---: |
+| 09:00 | Introduction and software setup | -- |
+| 09:30 | [Version Control with Git](http://swcarpentry.github.io/git-novice/) | [Intro to SunPy](04b-SunPy-Intro/index.ipynb) |
+| 10:50 | Coffee | Coffee |
+| 11:10 | [An Introduction to Python]() | [Images in Solar Astronomy]() |
+| 12:30 | Lunch break | Lunch break |
+| 13:30 | [Units and Plotting]() | [Obtaining and Coaligning Data]() |
+| 14:50 | Coffee | Coffee |
+| 15:10 | Exercise: [Approximating Pi]() (end 16:30) | Exercise: [Inspecting Spectral Data]() (end 16:00) |
 
 ## Installation and setup
 
