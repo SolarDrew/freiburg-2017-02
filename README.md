@@ -12,14 +12,14 @@ If you have any questions about this workshop or its contents, or if you would l
 
 | | **Day 1** | **Day 2** |
 | :---: | :---: | :---: |
-| 09:00 | Introduction and software setup | -- |
-| 09:30 | [Version Control with Git](http://swcarpentry.github.io/git-novice/) | [Intro to SunPy](04b-SunPy-Intro/index.ipynb) |
+| 09:00 | [Introduction and software setup]() | -- |
+| 09:30 | [Version Control with Git](http://swcarpentry.github.io/git-novice/) | [Intro to SunPy]() |
 | 10:50 | Coffee | Coffee |
-| 11:10 | [An Introduction to Python]() | [Images in Solar Astronomy]() |
+| 11:10 | [An Introduction to Python](02-Python-Intro/index.ipynb) | [Images in Solar Astronomy]() |
 | 12:30 | Lunch break | Lunch break |
-| 13:30 | [Units and Plotting]() | [Obtaining and Coaligning Data]() |
+| 13:30 | [Units and Plotting](03-multid-images/images-and-plotting_Instructor.ipynb) | [Obtaining and Coaligning Data]() |
 | 14:50 | Coffee | Coffee |
-| 15:10 | Exercise: [Approximating Pi]() (end 16:30) | Exercise: [Inspecting Spectral Data]() (end 16:00) |
+| 15:10 | Exercise: [Approximating Pi](04-Animation-Excercise_Instructor.ipynb) (end 16:30) | Exercise: [Inspecting Spectral Data]() (end 16:00) |
 
 ## Installation and setup
 
