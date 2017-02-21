@@ -1,5 +1,7 @@
 # Freiburg OpenAstronomy Workshop 21st-22nd February 2017
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/solardrew/freiburg-2017-02) 
+
 This repository contains the material taught at the OpenAstronomy workshop at Freiburg in February 2017.
 The first day is an introduction to Python for scientists already familiar with programming concepts, and the second day covers Astropy and SunPy.
 
