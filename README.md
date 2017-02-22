@@ -21,7 +21,7 @@ If you have any questions about this workshop or its contents, or if you would l
 | 12:30 | Lunch break | Lunch break |
 | 13:30 | [Units and Plotting](./03-units-images/index.ipynb) | [Obtaining Solar Data](07-VSO/07-VSO.ipynb) |
 | 14:50 | Coffee | Coffee |
-| 15:10 | Exercise: [Approximating Pi](./04-Animation/04-Animation-Excercise.ipynb) (end 16:30) | Exercise: [Inspecting Spectral Data]() (end 16:00) |
+| 15:10 | Exercise: [Approximating Pi](./04-Animation/04-Animation-Excercise.ipynb) (end 16:30) | Exercise: [Inspecting Spectral Data](08-Spectral-Exercise/08-Spectral-Exercise.ipynb) (end 16:00) |
 
 ## Installation and setup
 
